@@ -1,0 +1,6 @@
+(add 2 3)
+(subtract 10 4)
+(add 2 (subtract 4 2))
+(multiply 3 (add 1 2))
+(concat "foo" "bar")
+(add 1 (multiply 2 (subtract 9 4)))
